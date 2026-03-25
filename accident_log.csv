@@ -1,0 +1,16 @@
+time,location,vehicles,persons,severity
+2026-03-08 21:09:22,Highway Junction,4,7,HIGH
+2026-03-08 21:16:10,Highway Junction,2,1,MEDIUM
+2026-03-08 21:36:45,Highway Junction,2,1,MEDIUM
+2026-03-08 21:51:43,Highway Junction,9,0,HIGH
+2026-03-10 11:14:56,Highway Junction,2,1,MEDIUM
+2026-03-10 11:26:26,Highway Junction,9,0,HIGH
+2026-03-10 11:26:52,Highway Junction,6,3,HIGH
+2026-03-10 12:17:34.808268,Highway Junction,4,7,HIGH
+2026-03-10 20:15:12.369853,Highway Junction,4,7,HIGH
+2026-03-10 20:34:53.008367,Highway Junction,4,7,HIGH
+2026-03-14 18:59:52.677770,Highway Junction,2,1,MEDIUM
+2026-03-14 19:00:24.581938,Highway Junction,4,7,HIGH
+2026-03-19 23:13:02.875811,Highway Junction,4,7,HIGH
+2026-03-19 23:14:16.801021,Highway Junction,2,1,MEDIUM
+2026-03-19 23:23:59.408421,Highway Junction,2,4,HIGH
